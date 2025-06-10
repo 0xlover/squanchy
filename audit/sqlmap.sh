@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sqlmap - ... squanchy!
